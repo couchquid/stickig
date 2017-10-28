@@ -122,18 +122,20 @@ nav.main-nav {
 nav.main-nav a {
 	top: 8px;
 	right: 6px;
-	padding: 8px 12px;
+	padding: 6px 10px;
 	color: #5badf0;
 	font-size: 13px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
-
 }
-nav.main-nav a.cta {
-	background: #5badf0;
-	color: #fff;
-	margin-left: 12px;
+
+nav.main-nav a.symbol {
+    padding: 6px 5px;
+}
+
+nav.main-nav i {
+    font-size: 20px;
 }
 
 #wrapper {
